@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/pj30mdklB3FaaoFoOv/giphy.gif" width="240" height="180" />
 Hey! 👋 
-I am a full stack developer. In ❤️ with MERN. Launching products from scratch.
+I am a full stack developer. Launching products from scratch.
 <!--
 **KostyaNesterovich/KostyaNesterovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
